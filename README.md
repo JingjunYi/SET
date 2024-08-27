@@ -10,11 +10,6 @@ Spectral-dEcomposed Token (SET) is a novel framework designed to enhance domain 
 ![Set Framework](docs/framework.png)
 
 
-## Motivation
-Different styles of a driving scene (left row) impact the amplitude (second row) and the phase component (third row). As the styles change, the phase component remains stable, while the amplitude adjusts correspondingly. Thus, the amplitude component provides a feasible path to inspect the cross-domain style variation.
-![Set Framework](docs/fig2.png)
-
-
 ## Visualization
 Trained on Cityscapes, SET generalizes to unseen domains: BDD, Mapillary, GTAV, Synthia.
 ![Set Framework](docs/citys.png)
