@@ -1,0 +1,6 @@
+# train
+python tools/train.py configs/my/citys_rein_dinov2_mask2former_512x512_bs1x4.py --work-dir exps/exp0322
+# eval
+python tools/test.py configs/my/citys_rein_dinov2_mask2former_512x512_bs1x4.py exps/exp0429_citys/iter_40000.pth --backbone checkpoints/dinov2_converted.pth --show-dir 
+python tools/test.py configs/my/citys_rein_dinov2_mask2former_512x512_bs1x4.py exps/exp0429/iter_40000.pth --backbone checkpoints/dinov2_converted.pth
+python tools/test.py configs/my/citys_rein_dinov2_mask2former_512x512_bs1x4.py exps/exp0429_syn/iter_40000.pth --backbone checkpoints/dinov2_converted.pth
