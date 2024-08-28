@@ -1,5 +1,5 @@
 # [ACM MM2024] Learning Spectral-Decomposed Tokens for Domain Generalized Semantic Segmentation
-[Jingjun Yi](https://scholar.google.com/citations?user=doRtaBcAAAAJ&hl=en&oi=ao)<sup>1</sup>, [Qi Bi](https://scholar.google.com/citations?user=v6RAqYwAAAAJ&hl=en)<sup>2</sup>, Hao Zheng<sup>3</sup>, Haolan Zhan<sup>4</sup>, Wei Ji<sup>5</sup>, Yawen Huang<sup>3</sup>, Yuexiang Li<sup>6</sup>, Yefeng Zheng<sup>3</sup> <br />
+[Jingjun Yi](https://scholar.google.com/citations?user=doRtaBcAAAAJ&hl=en&oi=ao)<sup>1</sup>, [Qi Bi](https://scholar.google.com/citations?user=v6RAqYwAAAAJ&hl=en)<sup>2</sup>, Hao Zheng<sup>3</sup>, [Haolan Zhan](https://github.com/zhanhl316)<sup>4</sup>, [Wei Ji](https://github.com/jiwei0921)<sup>5</sup>, Yawen Huang<sup>3</sup>, Yuexiang Li<sup>6</sup>, Yefeng Zheng<sup>3</sup> <br />
 <sup>1</sup> Wuhan University    <sup>2</sup> University of Amsterdam    <sup>3</sup> Tencent Youtu Lab    <sup>4</sup> Monash University    <sup>5</sup> Yale University    <sup>6</sup> Guangxi Medical University
 
 Project page: https://github.com/JingjunYi/SET
