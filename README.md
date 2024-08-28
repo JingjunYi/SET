@@ -6,15 +6,13 @@ Project page: https://github.com/JingjunYi/SET
 
 Paper: https://arxiv.org/abs/2407.18568
 
-Spectral-dEcomposed Token (SET) is a novel framework designed to enhance domain generalized semantic segmentation by decomposing frozen VFM features into phase (content) and amplitude (style) components in the frequency space, allowing learnable tokens to process these components separately. This approach bridges the gap between style variations and static tokens, resulting in state-of-the-art performance in DGSS benckmarks.
 ![Set Framework](docs/framework.png)
+Spectral-dEcomposed Token (SET) is a novel framework designed to enhance domain generalized semantic segmentation by decomposing frozen VFM features into phase (content) and amplitude (style) components in the frequency space, allowing learnable tokens to process these components separately. This approach bridges the gap between style variations and static tokens, resulting in state-of-the-art performance in DGSS benckmarks.
 
 
 ## Visualization
 Trained on Cityscapes, SET generalizes to unseen domains: BDD, Mapillary, GTAV, Synthia.
 ![Set Framework](docs/citys.png)
-Trained on Cityscapes, SET generalizes to bad weather scenes of ACDC: fog, rain, night, snow.
-![Set Framework](docs/acdc.png)
 
 
 ## Performance Under Various Settings (DINOv2).
